@@ -403,7 +403,7 @@ VIN
 Text Label 3700 5350 0    50   ~ 0
 GND
 Text Notes 3800 7050 0    50   ~ 0
-Note - this is a re-entry of the schematic from sytse.\nThe footprints for the connectors may be slightly\ndifferent.\n\nIn particular, J4 seems to use larger holes on his board.\nHe may have used a screw terminal connector.\n\nAlso, the footprints I used all indicate pin 1 with a square\npad.
+Note - this is a re-entry of the schematic from Sytse van Slooten.\nThe footprints for the connectors may be slightly different.\n\nIn particular, J4 seems to use larger holes on his board.\nHe may have used a screw terminal connector.\n\nAlso, the footprints I used all indicate pin 1 with a square\npad.
 Text Label 3850 2400 2    50   ~ 0
 RESET
 Text Label 2800 6100 2    50   ~ 0
